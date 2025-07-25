@@ -123,7 +123,14 @@ Female,Hispanic,PhD,10,"Project Management, Python, C++",0
 Female,Hispanic,Bachelor,2,"Python, Data Analysis",0
 Female,Hispanic,High School,10,C++,0
 Male,White,PhD,18,"Java, Data Analysis, Python",0
+Female,Asian,Bachelor,15,"Java, Data Analysis, Project Management",1
+Female,Asian,PhD,9,"Data Analysis, Java, Python",0
+Male,Black,PhD,8,"C++, Java",1
+Female,White,PhD,18,"Data Analysis, C++",1
+Male,Other,PhD,8,Data Analysis,1
 Female,Other,PhD,9,Data Analysis,1
+Male,White,Master,4,"Python, Data Analysis, Java",1
+Male,White,Bachelor,2,"C++, Project Management",0
 Male,Black,Master,16,"C++, Java, Project Management",1
 Non-binary,Other,Master,10,Project Management,1
 Male,Other,PhD,17,"Python, Project Management",0
