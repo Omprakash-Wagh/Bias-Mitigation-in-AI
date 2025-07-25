@@ -1,0 +1,144 @@
+Gender,Ethnicity,Education_Level,Years_of_Experience,Skills,Hired
+Female,White,Master,7,Java,1
+Female,Hispanic,High School,18,"Python, Data Analysis",0
+Male,Asian,Bachelor,20,"Data Analysis, Project Management, Python",0
+Male,Hispanic,Bachelor,13,"C++, Java",0
+Female,White,PhD,3,"C++, Data Analysis",1
+Female,Black,PhD,2,"C++, Data Analysis, Project Management",0
+Male,Asian,Master,2,Python,0
+Female,Hispanic,Bachelor,11,"Java, C++",1
+Female,White,Bachelor,17,"Java, Data Analysis, Project Management",0
+Non-binary,Asian,Bachelor,10,Java,1
+Female,Black,High School,6,"C++, Java, Data Analysis",0
+Female,Asian,Bachelor,8,Java,1
+Female,Asian,PhD,18,"C++, Java",1
+Male,Black,High School,3,Java,1
+Male,White,PhD,19,"Data Analysis, C++",1
+Female,White,High School,17,"C++, Python",0
+Male,White,Master,16,Data Analysis,1
+Female,White,Bachelor,4,"Java, Python",1
+Female,White,Master,9,Python,0
+Female,White,PhD,2,"Java, Data Analysis, C++",0
+Female,White,PhD,6,"Java, C++, Data Analysis",1
+Female,Black,PhD,3,Java,0
+Male,Black,Bachelor,0,Python,0
+Non-binary,Hispanic,High School,16,C++,1
+Male,White,PhD,7,"Project Management, Java",0
+Female,White,PhD,14,"Python, Data Analysis, Project Management",0
+Male,Hispanic,Bachelor,6,Data Analysis,0
+Male,White,Bachelor,2,"Data Analysis, Python",0
+Non-binary,Hispanic,High School,7,Project Management,0
+Male,Black,High School,5,"Python, Project Management",0
+Female,Black,PhD,17,"Project Management, Java, Python",0
+Non-binary,Black,High School,10,Python,1
+Female,Hispanic,Bachelor,1,"Python, Java, Data Analysis",1
+Female,White,High School,18,Data Analysis,1
+Female,Black,Master,8,C++,0
+Male,Asian,Master,14,"Python, Data Analysis",0
+Non-binary,Other,High School,17,Data Analysis,0
+Non-binary,Hispanic,Bachelor,11,"Java, Project Management",1
+Female,Asian,High School,17,"Python, Java",0
+Female,Asian,Bachelor,8,"Data Analysis, Java",1
+Male,Asian,Master,16,"C++, Python",0
+Male,White,High School,10,C++,0
+Male,Asian,High School,3,Java,1
+Female,Black,Bachelor,13,Python,0
+Female,Asian,High School,11,Java,1
+Male,Black,PhD,19,"Java, Data Analysis, Python",1
+Female,Hispanic,High School,5,"C++, Project Management, Data Analysis",1
+Female,White,High School,12,Project Management,0
+Female,Black,Master,7,Python,1
+Male,White,High School,8,"Data Analysis, Project Management",1
+Female,White,High School,3,"Java, C++",0
+Female,White,Master,13,"Data Analysis, Python, Java",1
+Male,White,PhD,0,"Data Analysis, Java, Project Management",0
+Non-binary,Hispanic,Master,3,"C++, Data Analysis, Project Management",0
+Male,White,Bachelor,6,"Project Management, Java",1
+Male,Black,High School,9,"Java, Project Management",1
+Female,White,PhD,14,"Java, Project Management, C++",0
+Male,Black,Master,2,C++,0
+Male,White,Bachelor,15,"Python, Project Management, Java",1
+Female,Asian,PhD,15,"Java, Data Analysis",1
+Male,Asian,High School,13,Java,1
+Female,Black,Bachelor,3,"Java, Project Management",0
+Non-binary,Black,PhD,19,"Data Analysis, Project Management, C++",0
+Male,Hispanic,PhD,8,C++,1
+Female,Asian,Master,14,C++,0
+Male,Hispanic,High School,4,Java,0
+Male,White,PhD,13,"Data Analysis, Project Management",1
+Male,Black,High School,18,"Project Management, Python",1
+Male,White,PhD,17,"Data Analysis, Java, Project Management",1
+Male,White,Master,12,"Java, Project Management, Python",1
+Female,Hispanic,High School,2,"Project Management, Java, Data Analysis",0
+Male,White,PhD,10,"Project Management, C++",1
+Female,White,High School,15,Data Analysis,0
+Non-binary,White,High School,20,Python,1
+Male,White,Bachelor,7,Project Management,1
+Female,White,Master,11,Data Analysis,1
+Female,White,Bachelor,9,Data Analysis,0
+Male,Asian,PhD,12,"Java, Python, C++",1
+Female,White,Master,19,Data Analysis,1
+Male,Black,Master,2,"C++, Python, Java",1
+Male,Other,PhD,4,"Java, C++",1
+Non-binary,Asian,PhD,13,"Data Analysis, C++, Java",1
+Female,White,PhD,7,"Data Analysis, Project Management",0
+Female,White,PhD,6,"C++, Data Analysis",0
+Female,Hispanic,High School,16,Python,0
+Male,Black,Bachelor,15,"Project Management, Data Analysis, Python",0
+Male,Asian,Master,18,"Project Management, C++",0
+Female,White,PhD,8,"C++, Java",0
+Male,White,Bachelor,6,Project Management,1
+Female,Asian,Master,3,C++,0
+Male,White,Bachelor,8,Python,1
+Female,White,PhD,3,Data Analysis,0
+Female,White,High School,8,"Python, Data Analysis",0
+Male,Asian,High School,4,Data Analysis,1
+Male,White,PhD,19,"Data Analysis, Java, C++",1
+Non-binary,White,PhD,9,"Data Analysis, Python, C++",1
+Male,Asian,Bachelor,8,"Python, Java, Data Analysis",0
+Male,White,PhD,19,"C++, Python",1
+Female,Asian,PhD,2,"Java, C++, Project Management",1
+Female,White,High School,17,Java,1
+Female,White,Bachelor,9,"Data Analysis, C++, Java",0
+Female,Asian,Master,16,"Project Management, Data Analysis, Python",1
+Female,Asian,Master,0,Java,1
+Female,Black,High School,8,"Python, Java, Project Management",1
+Male,White,PhD,20,"Python, Project Management",1
+Male,Asian,Bachelor,10,"Project Management, C++",1
+Male,Asian,High School,14,C++,0
+Male,Asian,High School,17,"Project Management, Python",0
+Male,Asian,PhD,1,C++,1
+Non-binary,Black,PhD,3,Data Analysis,1
+Female,White,High School,17,"Python, Java",1
+Non-binary,Black,High School,20,Project Management,1
+Male,Asian,PhD,15,"Java, Project Management",1
+Male,Hispanic,Bachelor,2,"Project Management, C++",1
+Female,Hispanic,Master,9,"Data Analysis, Project Management, Python",0
+Female,White,PhD,14,"Java, Data Analysis",1
+Male,Asian,High School,10,"Project Management, Data Analysis, Java",1
+Female,Asian,Bachelor,15,Java,1
+Female,Hispanic,PhD,3,"Project Management, Python, C++",0
+Female,Other,High School,15,"C++, Project Management",1
+Female,Hispanic,PhD,10,"Project Management, Python, C++",0
+Female,Hispanic,Bachelor,2,"Python, Data Analysis",0
+Female,Hispanic,High School,10,C++,0
+Male,White,PhD,18,"Java, Data Analysis, Python",0
+Female,Other,PhD,9,Data Analysis,1
+Male,Black,Master,16,"C++, Java, Project Management",1
+Non-binary,Other,Master,10,Project Management,1
+Male,Other,PhD,17,"Python, Project Management",0
+Female,Black,Master,18,"C++, Python",1
+Female,Asian,Master,19,Python,1
+Female,Asian,PhD,3,Python,1
+Male,Black,High School,7,"Java, Project Management, Data Analysis",0
+Non-binary,Asian,PhD,18,"Java, Project Management, C++",0
+Female,Black,Master,1,"C++, Java, Project Management",0
+Male,White,Master,17,"C++, Python, Java",1
+Non-binary,Hispanic,PhD,2,"Java, Python, Project Management",1
+Male,White,Bachelor,2,"Java, Data Analysis, Python",0
+Male,Hispanic,High School,8,Java,1
+Female,White,High School,4,C++,1
+Male,White,Bachelor,8,Java,1
+Female,Asian,PhD,14,"Data Analysis, Python",0
+Male,Asian,Master,14,"Python, Data Analysis, Java",1
+Male,White,PhD,2,C++,1
